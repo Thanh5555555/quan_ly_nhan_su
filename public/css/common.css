@@ -1,0 +1,32 @@
+.background-weekend {
+    background-color: #dfe5ef;
+}
+
+.background-holiday {
+    background-color: greenyellow;
+}
+
+.box-logwork:hover {
+    background-color: yellowgreen;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.show-area {
+    background-color: #fff !important;
+}
+
+.frame-payment {
+    height: 300px;
+    overflow:auto;
+}
+
+.required-label {
+	color: red;
+}
+
+.font-thien {
+	font-family: 'Font Awesome 5 Free' !important;
+}
